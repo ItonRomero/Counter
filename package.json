@@ -2,7 +2,7 @@
   "name": "counter",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://itonromero.github.io/repository-name",
+  "homepage": "https://itonromero.github.io/Counter",
   "type": "module",
   "scripts": {
     "dev": "vite",
